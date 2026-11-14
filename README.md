@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zach!</h1>
 
-<h2>👨‍💻 Scripting & Automation Projects:</h2>
+<h2>Scripting & Automation Projects:</h2>
 
 - <b>PowerShell</b>
   - [Grammarly Intune Detection Script](https://github.com/zrhalpern/Grammarly-Detection-Script)
