@@ -3,7 +3,8 @@
 <h2>👨‍💻 Scripting & Automation Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Grammarly Detection Script](https://github.com/zrhalpern/Grammarly-Detection-Script)
+  - [Grammarly Intune Detection Script](https://github.com/zrhalpern/Grammarly-Detection-Script)
+  - [OneDrive Disabled Intune Detection and Remediation PowerShell Script](https://github.com/zrhalpern/OneDrive-Disabled-Script-and-Remediation)
 
 
 <h2>Cybersecurity Projects:</h2>
