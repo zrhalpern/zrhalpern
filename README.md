@@ -6,6 +6,7 @@
   - [Grammarly Intune Detection Script](https://github.com/zrhalpern/Grammarly-Detection-Script)
   - [OneDrive Disabled Intune Detection and Remediation PowerShell Script](https://github.com/zrhalpern/OneDrive-Disabled-Script-and-Remediation)
   - [Making Registry Editor Changes Using PowerShell](https://github.com/zrhalpern/Making-Registry-Editor-Changes-Using-PowerShell)
+  - [Managing Delegates Using PowerShell](https://github.com/zrhalpern/Managing-Delegates-with-PowerShell)
 
 
 <h2>Cybersecurity Projects:</h2>
