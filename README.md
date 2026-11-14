@@ -11,6 +11,10 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
+<h2>Intune Work:</h2>
+
+- [How to Set Default Applications for Windows Using Intune](https://github.com/zrhalpern/Set-Application-Defaults-Using-Intune-Windows-)
+
 <h2>Certifications:</h2>
 
 - [Okta Certified Professional](https://www.credly.com/badges/92479b8d-c9d1-4eb1-9a70-d603f4b1a107/linked_in_profile)
