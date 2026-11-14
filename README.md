@@ -11,7 +11,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Phishing Incident Response Playbook](https://github.com/zrhalpern/Phishing-Incident-Response-Playbook)
 
 <h2>Intune Work:</h2>
 
