@@ -16,7 +16,7 @@
 <h2>Intune Work:</h2>
 
 - [How to Set Default Applications for Windows Using Intune](https://github.com/zrhalpern/Set-Application-Defaults-Using-Intune-Windows-)
-- [Building Intune Homelab](https://github.com/zrhalpern/Set-Application-Defaults-Using-Intune-Windows-)
+- [Building Intune Homelab](https://github.com/zrhalpern/Intune-Homelab)
 
 <h2>Certifications:</h2>
 
