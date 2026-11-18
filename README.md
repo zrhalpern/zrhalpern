@@ -11,8 +11,6 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Phishing Incident Response Playbook](https://github.com/zrhalpern/Phishing-Incident-Response-Playbook)
-
 <h2>Intune Work:</h2>
 
 - [How to Set Default Applications for Windows Using Intune](https://github.com/zrhalpern/Set-Application-Defaults-Using-Intune-Windows-)
